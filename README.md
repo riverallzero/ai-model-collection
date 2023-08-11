@@ -1,6 +1,6 @@
 # Generative-AI
 
-## Text
+## Text(chatbot)
 - [ChatGPT](https://chat.openai.com/)
 - [Bard](https://bard.google.com/)
 - [ChatKoAlpaca](https://chat.koalpaca.com/)
