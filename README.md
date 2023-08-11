@@ -33,5 +33,5 @@
 
 ## Course
 - [LangChain AI](https://www.pinecone.io/learn/langchain/): LangChain AI handbook
-- [DeepLearning.AI](https://www.deeplearning.ai/short-courses/): learn Generative AI short courses
+- [DeepLearning.AI](https://www.deeplearning.ai/short-courses/): Generative AI short courses
   
