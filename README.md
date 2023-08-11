@@ -12,7 +12,7 @@
 - [StableDiffusion](https://github.com/Stability-AI/stablediffusion): generate detailed images based on text
 - [Text2Video-Zero](https://github.com/Picsart-AI-Research/Text2Video-Zero): text to video
 - [BackgroundRemover](https://github.com/nadermx/backgroundremover): remove background from image and video
-- [Clip-Interrogator](https://github.com/pharmapsychotic/clip-interrogator)
+- [Clip-Interrogator](https://github.com/pharmapsychotic/clip-interrogator): image to text
 - [GLIGEN](https://github.com/gligen/GLIGEN): text to image
   
 ## Text & Image
