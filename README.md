@@ -7,7 +7,7 @@ GitHub repository for [Image](https://github.com/riverallzero/Generative-AI/tree
 - [ChatKoAlpaca](https://chat.koalpaca.com/)
 
 ## Image
-- [GroundingDINO](https://github.com/IDEA-Research/GroundingDINO): detect everything with language
+- [GroundingDINO](https://github.com/IDEA-Research/GroundingDINO): detect everything with text
 - [SAM(SegmentAnythingModel)](https://github.com/facebookresearch/segment-anything): cut out any object in any image
 - [FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM): 50× higher run-time speed than SAM
 - [EditAnything](https://github.com/sail-sg/EditAnything): edit and generate anything in an image
