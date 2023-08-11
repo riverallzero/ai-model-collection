@@ -26,7 +26,7 @@
 - [Perplexity AI](https://www.perplexity.ai/search/c1cd6e16-21e4-45e2-971b-5a077abd2c36?s=u): answer to any question
 - [ChatPDF](https://www.chatpdf.com/): chat with any PDF
 - [Elicit](https://elicit.org/): AI research assistant
-- [Deepl](https://www.deepl.com/): translator
+- [DeepL](https://www.deepl.com/): translator
 - [Connected Papers](https://www.connectedpapers.com/): explore connected papers in a visual graph
 - [Gamma](https://gamma.app/): presentation generator
 
