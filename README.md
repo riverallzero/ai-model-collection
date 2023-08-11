@@ -8,6 +8,7 @@
 ## Image
 - [GroundingDINO](https://github.com/IDEA-Research/GroundingDINO): detect everything with language
 - [SAM(SegmentAnythingModel)](https://github.com/facebookresearch/segment-anything): cut out any object in any image
+- [FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM): 50× higher run-time speed than SAM
 - [EditAnything](https://github.com/sail-sg/EditAnything): edit and generate anything in an image
 - [StableDiffusion](https://github.com/Stability-AI/stablediffusion): generate detailed images based on text
 - [Text2Video-Zero](https://github.com/Picsart-AI-Research/Text2Video-Zero): text to video
