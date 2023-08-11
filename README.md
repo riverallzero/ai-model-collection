@@ -1,10 +1,5 @@
 # Generative-AI
-GitHub repository for [Image](https://github.com/riverallzero/Generative-AI/tree/main#image), [Text & Image](https://github.com/riverallzero/Generative-AI/tree/main/#text--image) and [Voice](https://github.com/riverallzero/Generative-AI/tree/main/#voice),  Website for [Text(chatbot)](https://github.com/riverallzero/Generative-AI/tree/main/#textchatbot), [Service](https://github.com/riverallzero/Generative-AI/tree/main/#service) and [Course](https://github.com/riverallzero/Generative-AI/tree/main/#course) 
-
-## Text(chatbot)
-- [ChatGPT](https://chat.openai.com/)
-- [Bard](https://bard.google.com/)
-- [ChatKoAlpaca](https://chat.koalpaca.com/)
+GitHub repository for [Image](https://github.com/riverallzero/Generative-AI/tree/main#image), [Text & Image](https://github.com/riverallzero/Generative-AI/tree/main/#text--image) and [Voice](https://github.com/riverallzero/Generative-AI/tree/main/#voice),  Website for [Service](https://github.com/riverallzero/Generative-AI/tree/main/#service) and [Course](https://github.com/riverallzero/Generative-AI/tree/main/#course) 
 
 ## Image
 - [GroundingDINO](https://github.com/IDEA-Research/GroundingDINO): detect everything with text
