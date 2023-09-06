@@ -1,5 +1,5 @@
 # Generative-AI
-GitHub repository for [Image](https://github.com/riverallzero/Generative-AI/tree/main#image), [Text](https://github.com/riverallzero/Generative-AI/tree/main/#text) [Text & Image](https://github.com/riverallzero/Generative-AI/tree/main/#text--image) and [Voice](https://github.com/riverallzero/Generative-AI/tree/main/#voice), [Video](https://github.com/riverallzero/Generative-AI/tree/main#video)  Website for [Service](https://github.com/riverallzero/Generative-AI/tree/main/#service) and [Course](https://github.com/riverallzero/Generative-AI/tree/main/#course) 
+GitHub repository for [Image](https://github.com/riverallzero/Generative-AI/tree/main#image), [Text](https://github.com/riverallzero/Generative-AI/tree/main/#text), [Text & Image](https://github.com/riverallzero/Generative-AI/tree/main/#text--image) and [Voice](https://github.com/riverallzero/Generative-AI/tree/main/#voice), [Video](https://github.com/riverallzero/Generative-AI/tree/main#video)  Website for [Service](https://github.com/riverallzero/Generative-AI/tree/main/#service) and [Course](https://github.com/riverallzero/Generative-AI/tree/main/#course) 
 
 ## Image
 - [GroundingDINO](https://github.com/IDEA-Research/GroundingDINO): detect everything with text
