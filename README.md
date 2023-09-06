@@ -1,5 +1,5 @@
 # Generative-AI
-GitHub repository for [Image](https://github.com/riverallzero/Generative-AI/tree/main#image), [Text & Image](https://github.com/riverallzero/Generative-AI/tree/main/#text--image) and [Voice](https://github.com/riverallzero/Generative-AI/tree/main/#voice), [Video](https://github.com/riverallzero/Generative-AI/tree/main#video)  Website for [Service](https://github.com/riverallzero/Generative-AI/tree/main/#service) and [Course](https://github.com/riverallzero/Generative-AI/tree/main/#course) 
+GitHub repository for [Image](https://github.com/riverallzero/Generative-AI/tree/main#image), [Text](https://github.com/riverallzero/Generative-AI/tree/main/#text) [Text & Image](https://github.com/riverallzero/Generative-AI/tree/main/#text--image) and [Voice](https://github.com/riverallzero/Generative-AI/tree/main/#voice), [Video](https://github.com/riverallzero/Generative-AI/tree/main#video)  Website for [Service](https://github.com/riverallzero/Generative-AI/tree/main/#service) and [Course](https://github.com/riverallzero/Generative-AI/tree/main/#course) 
 
 ## Image
 - [GroundingDINO](https://github.com/IDEA-Research/GroundingDINO): detect everything with text
@@ -12,6 +12,9 @@ GitHub repository for [Image](https://github.com/riverallzero/Generative-AI/tree
 - [BackgroundRemover](https://github.com/nadermx/backgroundremover): remove background from image and video
 - [Clip-Interrogator](https://github.com/pharmapsychotic/clip-interrogator): image to text
 - [GLIGEN](https://github.com/gligen/GLIGEN): text to image
+
+## Text
+- [open-interpreter](https://github.com/KillianLucas/open-interpreter): OpenAI's Code Interpreter in your terminal, running locally
 
 ## Text & Image
 - [LLaVa](https://github.com/haotian-liu/LLaVA): chat with image
