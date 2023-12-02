@@ -12,6 +12,7 @@ GitHub repository for [Image](https://github.com/riverallzero/Generative-AI/tree
 - [BackgroundRemover](https://github.com/nadermx/backgroundremover): remove background from image and video
 - [Clip-Interrogator](https://github.com/pharmapsychotic/clip-interrogator): image to text
 - [GLIGEN](https://github.com/gligen/GLIGEN): text to image
+- [CLIP-SAM](https://github.com/maxi-w/CLIP-SAM): CLIP with SAM
 
 ## Text
 - [open-interpreter](https://github.com/KillianLucas/open-interpreter): OpenAI's Code Interpreter in your terminal, running locally
