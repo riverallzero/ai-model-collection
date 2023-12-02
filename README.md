@@ -1,4 +1,4 @@
-# AI Model Collection
+# 📁 AI Model Collection
 **GitHub repository** for 
 - [Image](https://github.com/riverallzero/Generative-AI/tree/main#-image)
 - [Text](https://github.com/riverallzero/Generative-AI/tree/main/#-text)
