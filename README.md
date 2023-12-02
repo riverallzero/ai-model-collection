@@ -2,7 +2,7 @@
 **GitHub repository** for 
 - [Image](https://github.com/riverallzero/Generative-AI/tree/main#image)
 - [Text](https://github.com/riverallzero/Generative-AI/tree/main/#text)
-- [Text & Image](https://github.com/riverallzero/Generative-AI/tree/main/#text--image)
+- [Text & Image](https://github.com/riverallzero/Generative-AI/tree/main/#-text--image)
 - [Voice](https://github.com/riverallzero/Generative-AI/tree/main/#voice)
 - [Video](https://github.com/riverallzero/Generative-AI/tree/main#video)
 
