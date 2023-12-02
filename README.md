@@ -1,4 +1,4 @@
-# Generative-AI
+# AI Model Collection
 **GitHub repository** for 
 - [Image](https://github.com/riverallzero/Generative-AI/tree/main#-image)
 - [Text](https://github.com/riverallzero/Generative-AI/tree/main/#-text)
@@ -22,7 +22,7 @@
 
 ### diffusion
 - [Edit Anything](https://github.com/sail-sg/EditAnything): ```image edit```, edit and generate anything
-- [Stable Diffusion](https://github.com/Stability-AI/stablediffusion): ```text to image```
+- [Stable Diffusion](https://github.com/Stability-AI/stablediffusion): ```text to image```, prompt
 - [Dreambooth StableDiffusion](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion): ```text to image```, fine-tune model with a few examples
 - [Perfusion](https://github.com/ChenDarYen/Key-Locked-Rank-One-Editing-for-Text-to-Image-Personalization): ```text to image```, fine-tune model with a few examples
 - [Dense Diffusion](https://github.com/naver-ai/DenseDiffusion): ```text to image```, generate image with sketch and prompt
