@@ -31,6 +31,7 @@
 - [Paint by Example](https://github.com/Fantasy-Studio/Paint-by-Example): ```image edit```, inpaint
 - [Instruct Pix2Pix](https://github.com/timothybrooks/instruct-pix2pix): ```image edit```, prompt
 - [Inpaint Anything](https://github.com/geekyutao/Inpaint-Anything): ```image edit```, inpaint
+- [PAIR Diffusion](https://github.com/Picsart-AI-Research/PAIR-Diffusion): ``ìmage edit```, prompt, image
 
 ## | Text
 - [open-interpreter](https://github.com/KillianLucas/open-interpreter): OpenAI's Code Interpreter can run in local
