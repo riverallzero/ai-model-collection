@@ -13,14 +13,20 @@
 ***
 
 ## | Image
-### detection & segmentation
+### detection
 - [GroundingDINO](https://github.com/IDEA-Research/GroundingDINO): detect everything with text
+- [OS2D](https://github.com/aosokin/os2d): detect class-image(one shot) in input-image
+- [Image Deduplicator](https://github.com/idealo/imagededup): detect duplicate image
+
+### segmentation
 - [SAM(SegmentAnythingModel)](https://github.com/facebookresearch/segment-anything): cut out any object in any image
 - [Fast SAM](https://github.com/CASIA-IVA-Lab/FastSAM): 50× higher run-time speed than SAM
+
+### detection & segmentation
 - [Grounded SegmentAnything](https://github.com/IDEA-Research/Grounded-Segment-Anything): detect everything with text and cut object(bounding box, masking)
 - [CLIP-SAM](https://github.com/maxi-w/CLIP-SAM): detect everything with text and cut object(masking)
 
-### diffusion
+### generative
 - [Edit Anything](https://github.com/sail-sg/EditAnything): ```image edit```, edit and generate anything
 - [Stable Diffusion](https://github.com/Stability-AI/stablediffusion): ```text to image```, prompt
 - [Dreambooth StableDiffusion](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion): ```text to image```, fine-tune model with a few examples
