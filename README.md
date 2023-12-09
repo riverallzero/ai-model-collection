@@ -1,4 +1,6 @@
 # 📁 AI Model Collection
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Friverallzero%2FAI-Model-Collection&count_bg=%23A0BC8B&title_bg=%23289629&icon=openai.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 **GitHub repository** for 
 - [Image](https://github.com/riverallzero/Generative-AI/tree/main#-image)
 - [Text](https://github.com/riverallzero/Generative-AI/tree/main/#-text)
