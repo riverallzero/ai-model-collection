@@ -2,6 +2,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Friverallzero%2FAI-Model-Collection&count_bg=%23A0BC8B&title_bg=%23289629&icon=openai.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 **GitHub repository** for 
+- [Awesome](https://github.com/riverallzero/Generative-AI/tree/main#-awesome)
 - [Image](https://github.com/riverallzero/Generative-AI/tree/main#-image)
 - [Text](https://github.com/riverallzero/Generative-AI/tree/main/#-text)
 - [Text & Image](https://github.com/riverallzero/Generative-AI/tree/main/#-text--image)
@@ -13,6 +14,9 @@
 - [Course](https://github.com/riverallzero/Generative-AI/tree/main/#-course) 
 
 ***
+
+## | Awesome
+- [Awesome-Diffusion-Personalization](https://github.com/PRIV-Creation/Awesome-Diffusion-Personalization): focus on how to efficiently learn a concept/object/style based on large diffusion models
 
 ## | Image
 ### detection
