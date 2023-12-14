@@ -40,10 +40,11 @@
 - [Dense Diffusion](https://github.com/naver-ai/DenseDiffusion): ```text to image```, generate image with sketch and prompt
 - [GLIGEN](https://github.com/gligen/GLIGEN): ```text to image```, generate image with sketch and prompt
 - [Clip-Interrogator](https://github.com/pharmapsychotic/clip-interrogator): ```image to text```, generate prompt
-- [Paint by Example](https://github.com/Fantasy-Studio/Paint-by-Example): ```image edit```, inpaint
+- [Paint by Example](https://github.com/Fantasy-Studio/Paint-by-Example): ```image edit```, inpaint(input: reference, mask, source image)
 - [Instruct Pix2Pix](https://github.com/timothybrooks/instruct-pix2pix): ```image edit```, prompt
-- [Inpaint Anything](https://github.com/geekyutao/Inpaint-Anything): ```image edit```, inpaint
+- [Inpaint Anything](https://github.com/geekyutao/Inpaint-Anything): ```image edit```, inpaint(input: prompt)
 - [PAIR Diffusion](https://github.com/Picsart-AI-Research/PAIR-Diffusion): ```ìmage edit```, prompt, image
+- [CycleNet](https://github.com/sled-group/CycleNet): ```image edit```, text-guided(winter->summer, horse->zebra etc.)
 
 ## | Text
 - [open-interpreter](https://github.com/KillianLucas/open-interpreter): OpenAI's Code Interpreter can run in local
