@@ -27,6 +27,7 @@
 ### segmentation
 - [SAM(SegmentAnythingModel)](https://github.com/facebookresearch/segment-anything): cut out any object in any image
 - [Fast SAM](https://github.com/CASIA-IVA-Lab/FastSAM): 50× higher run-time speed than SAM
+- [Lang Segment](https://github.com/luca-medeiros/lang-segment-anything): segment input prompt object 
 
 ### detection & segmentation
 - [Grounded SegmentAnything](https://github.com/IDEA-Research/Grounded-Segment-Anything): detect everything with text and cut object(bounding box, masking)
