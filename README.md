@@ -72,6 +72,3 @@
 ## | Course
 - [LangChain AI](https://www.pinecone.io/learn/langchain/): LangChain AI handbook
 - [DeepLearning.AI](https://www.deeplearning.ai/short-courses/): Generative AI short courses
-- [Tesorflow for DeepLearning Research](https://web.stanford.edu/class/cs20si/syllabus.html): Standford University
-- [Intro AI](http://ai.berkeley.edu/home.html): UC Berkeley
-  
