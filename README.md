@@ -68,8 +68,10 @@
 - [DeepL](https://www.deepl.com/): translator
 - [Connected Papers](https://www.connectedpapers.com/): explore connected papers in a visual graph
 - [Gamma](https://gamma.app/): presentation generator
-- [WRTN](https://wrtn.ai/): ```korean```, focus on the text generation like gpt
 
 ## | Course
 - [LangChain AI](https://www.pinecone.io/learn/langchain/): LangChain AI handbook
 - [DeepLearning.AI](https://www.deeplearning.ai/short-courses/): Generative AI short courses
+- [Tesorflow for DeepLearning Research](https://web.stanford.edu/class/cs20si/syllabus.html): Standford University
+- [Intro AI](http://ai.berkeley.edu/home.html): UC Berkeley
+  
