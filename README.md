@@ -33,6 +33,7 @@
 - [CLIP-SAM](https://github.com/maxi-w/CLIP-SAM): detect everything with text and cut object(masking)
 - [Lang Segment](https://github.com/luca-medeiros/lang-segment-anything): segment input prompt object
 - [MaskDINO](https://github.com/IDEA-Research/MaskDINO): auto object detection and segmentation
+- [SSA(SemanticSegmentAnything)](https://github.com/fudan-zvg/Semantic-Segment-Anything): auto object detection and segmentation, label
 
 ### generative
 - [Edit Anything](https://github.com/sail-sg/EditAnything): ```image edit```, edit and generate anything
