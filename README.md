@@ -31,7 +31,8 @@
 ### detection & segmentation
 - [Grounded SegmentAnything](https://github.com/IDEA-Research/Grounded-Segment-Anything): detect everything with text and cut object(bounding box, masking)
 - [CLIP-SAM](https://github.com/maxi-w/CLIP-SAM): detect everything with text and cut object(masking)
-- [Lang Segment](https://github.com/luca-medeiros/lang-segment-anything): segment input prompt object 
+- [Lang Segment](https://github.com/luca-medeiros/lang-segment-anything): segment input prompt object
+- [MaskDINO](https://github.com/IDEA-Research/MaskDINO): object detection and segmentation
 
 ### generative
 - [Edit Anything](https://github.com/sail-sg/EditAnything): ```image edit```, edit and generate anything
