@@ -59,6 +59,7 @@
 ## | Video
 - [autodistill](https://github.com/autodistill/autodistill): detecting objects with auto-labeled dataset
 - [Text2Video-Zero](https://github.com/Picsart-AI-Research/Text2Video-Zero): ```text to video```, prompt
+- [OpenSora](https://github.com/hpcaitech/Open-Sora?tab=readme-ov-file): ```text to video```, prompt
 
 ## | Voice
 - [Bark](https://github.com/suno-ai/bark): ```text to audio```
